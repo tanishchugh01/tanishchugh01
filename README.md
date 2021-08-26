@@ -1,9 +1,14 @@
-
 <h1 align="center">Hi , I'm Tanish Chugh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## 🐱My Github stats:
-![Tanish Chugh's github stats](https://github-readme-stats.vercel.app/api?username=tanishchugh01&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]) 
-  
+
+![Tanish Chugh's github stats](https://github-readme-stats.vercel.app/api?username=tanishchugh01&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+
+</div>
+<div align="center">
+
+<img alt="visitors" src="https://gpvc.arturio.dev/tanishchugh01"/>
+    
 </div>
 
 ![gif](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
@@ -26,6 +31,7 @@
 </p>
 
 ### 👉 Frontend Development
+
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -42,6 +48,7 @@
 </p>
 
 ### 👉Graphic Designing
+
 <p align="left">
   &emsp;
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
@@ -53,8 +60,8 @@
   </a> 
  </p>
 
- ### 👉 Software & Tools
- 
+### 👉 Software & Tools
+
 <p>
   &emsp;
     <a href="https://www.adobe.com/in/"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
@@ -68,18 +75,17 @@
 </p>
 
 <br/>
-
-<img align="center" alt="visitors" src="https://gpvc.arturio.dev/tanishchugh01"/>
 </p>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishchugh01/)
-  &emsp; 
+&emsp;
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishchugh01@gmail.com)
-  &emsp; 
+&emsp;
 [![image](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/tanishchugh01)
-  &emsp; 
+&emsp;
 [![image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/tanishchugh01/)
+
 </div>
