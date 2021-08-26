@@ -1,18 +1,16 @@
 <h1 align="center">Hi , I'm Tanish Chugh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
 
 ## 🐱My Github stats:
 
 ![Tanish Chugh's github stats](https://github-readme-stats.vercel.app/api?username=tanishchugh01&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 
-</div>
-<div align="center">
-
-<img alt="visitors" src="https://gpvc.arturio.dev/tanishchugh01"/>
     
-</div>
 
 ![gif](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 
+<img alt="visitors" src="https://gpvc.arturio.dev/tanishchugh01"/>
+</div>
 <hr>
 
 ## 🛠️ My Skills
