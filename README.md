@@ -1,17 +1,4 @@
 <h1 align="center">Hi , I'm Tanish Chugh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<div align="center">
-
-## 🐱My Github stats:
-
-![Tanish Chugh's github stats](https://github-readme-stats.vercel.app/api?username=tanishchugh01&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-
-    
-
-![gif](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
-
-<img alt="visitors" src="https://gpvc.arturio.dev/tanishchugh01"/>
-</div>
-<hr>
 
 ## 🛠️ My Skills
 
@@ -62,17 +49,32 @@
 
 <p>
   &emsp;
-    <a href="https://www.adobe.com/in/"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="https://github.com"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
-    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://www.adobe.com/in/"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
   &emsp;
     <!-- <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp; -->
 </p>
 
 <br/>
+
+<div align="center">
+
+![gif](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
+
+## 🐱My Github stats:
+
+![Tanish Chugh's github stats](https://github-readme-stats.vercel.app/api?username=tanishchugh01&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+
+<img alt="visitors" src="https://gpvc.arturio.dev/tanishchugh01"/>
+
+</div>
+
+<hr>
+
 </p>
 
 <h3 align="center">Connect with me:</h3>
