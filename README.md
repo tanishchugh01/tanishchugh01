@@ -62,8 +62,8 @@
   &emsp;
     <a href="https://github.com"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
-    <!-- <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  &emsp; -->
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=flat"></a>
+  &emsp;
 </p>
 
 <br/>
