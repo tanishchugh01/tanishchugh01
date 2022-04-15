@@ -89,7 +89,7 @@
 - 👨🏽‍💻 I’m currently working on [TaskManager](https://github.com/tanishchugh01/taskManagerApp);
 - 🌱 I’m currently learning React;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have spent 10 hours on google just to find out what write in these bullets :) ;
+- ⚡️ Fun-Fact: I have spent two hours on google just to find out what write in these bullets :) ;
 - 🥅 Current Goal: Learning and expertising MERN Stack;
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tanishchugh01@gmail.com)
 
