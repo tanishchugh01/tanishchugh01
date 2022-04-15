@@ -5,14 +5,15 @@
 ### 👉 Programming languages
 
 <p align="left"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
   </a> 
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+  </a> 
+  
 </p>
 
 ### 👉 Frontend Development
@@ -30,9 +31,13 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+   </a>
 </p>
 
-### 👉Graphic Designing
+### 👉Graphic Designing || UI/UX Designing
 
 <p align="left">
   &emsp;
@@ -43,6 +48,10 @@
   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> 
     <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/> 
   </a> 
+  &emsp;
+  <a href="https://www.figma.com/" target="_blank"> 
+    <img alt="Figma" src="https://img.shields.io/badge/figma-%2523F24E1E.svg?logo=figma&logoColor=white&color=purple"/> 
+  </a>   
  </p>
 
 ### 👉 Software & Tools
@@ -52,8 +61,6 @@
     <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="https://github.com"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.adobe.com/in/"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
   &emsp;
     <!-- <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp; -->
@@ -69,9 +76,22 @@
 
 ![Tanish Chugh's github stats](https://github-readme-stats.vercel.app/api?username=tanishchugh01&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 
-<img alt="visitors" src="https://gpvc.arturio.dev/tanishchugh01"/>
-
 </div>
+
+<div align="center">
+<img alt="visitors"  src="https://gpvc.arturio.dev/tanishchugh01"/>
+
+[![wakatime](https://wakatime.com/badge/user/2a5dd98b-31e6-45fe-b1a0-e33e97614682.svg)](https://wakatime.com/@2a5dd98b-31e6-45fe-b1a0-e33e97614682)
+</div>
+
+<br/>
+
+- 👨🏽‍💻 I’m currently working on [TaskManager](https://github.com/tanishchugh01/taskManagerApp);
+- 🌱 I’m currently learning React;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: I have spent 10 hours on google just to find out what write in these bullets :) ;
+- 🥅 Current Goal: Learning and expertising MERN Stack;
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tanishchugh01@gmail.com)
 
 <hr>
 
@@ -84,8 +104,12 @@
 &emsp;
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishchugh01@gmail.com)
 &emsp;
+[![image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/tanishchugh01/)
+&emsp;
+[![image](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tanishchugh01)
+&emsp;
 [![image](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/tanishchugh01)
 &emsp;
-[![image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/tanishchugh01/)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/tanishchugh01)
 
 </div>
