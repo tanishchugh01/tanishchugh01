@@ -86,7 +86,7 @@
 
 <br/>
 
-- 👨🏽‍💻 I’m currently working on [TaskManager](https://github.com/tanishchugh01/taskManagerApp);
+- 👨🏽‍💻 I’m currently working on [redditr](https://github.com/tanishchugh01/redditr);
 - 🌱 I’m currently learning React;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have spent two hours on google just to find out what write in these bullets :) ;
