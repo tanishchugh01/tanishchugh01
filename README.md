@@ -1,5 +1,8 @@
 <h1 align="center">Hi , I'm Tanish Chugh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+
+[![Tanish's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tanishchugh01&custom_title=Tanish%27s%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -73,8 +76,17 @@
 ![gif](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 
 ## 🐱My Github stats:
+ 
+![](https://github-readme-streak-stats.herokuapp.com/?user=tanishchugh01&theme=radical&hide_border=false)<br/>
 
-![Tanish Chugh's github stats](https://github-readme-stats.vercel.app/api?username=tanishchugh01&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+ ![](https://github-readme-stats.vercel.app/api?username=tanishchugh01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> 
+
+  <!-- ![](https://github-readme-stats.vercel.app/api?username=tanishchugh01&theme=radical&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)<br/>  -->   
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishchugh01&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tanishchugh01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
